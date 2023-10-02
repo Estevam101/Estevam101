@@ -1,7 +1,7 @@
 ## Olá ! 🙌
 <div align="center">
 
-### Sou Estevam, atualmente cursando analise e desenvolvimento de sistemas. 
+### Meu nome é Estevam, e sou estudante de Análise e Desenvolvimento de Sistemas. Gosto programação e amo academia. Aqui estão algumas informações sobre mim: 
 
 </div>
 
